@@ -1,0 +1,6 @@
+networkx
+wikipedia
+fa2
+nxviz==0.7.4
+wordcloud==1.8.2.2
+python-louvain
